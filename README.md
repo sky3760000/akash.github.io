@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="sky.css">
+    <link rel="stylesheet" href="lol.md">
     <title>kiuy</title>
 </head>
 <body>
@@ -23,6 +23,6 @@
            
     </div>
 
-    <script src="sky.js"></script>
+    <script src="kk.md"></script>
 </body>
 </html>
