@@ -1,1 +1,0 @@
-# akash.github.io
